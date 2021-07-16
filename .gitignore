@@ -1,0 +1,5 @@
+data/*
+!data/.gitkeep
+test_target/*
+!test_target/.gitkeep
+.DS_store
